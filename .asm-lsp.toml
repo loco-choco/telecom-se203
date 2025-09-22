@@ -1,0 +1,7 @@
+[default_config]
+version = "0.10.0"
+instruction_set = "arm"
+assembler = "gas"
+
+[default_config.opts]
+compiler = "arm-none-eabi-gcc"
